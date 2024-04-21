@@ -49,7 +49,7 @@ variable "aws_region" {
 variable "forward_email_sender" {
   default     = "forward"
   type        = string
-  description = "The email account of the domain from which emails are forwarded to the final recipient. Is suffixed with the incoming_domain."
+  description = "The email account of the domain from which emails are forwarded to the final recipient. Is suffixed with the incoming_domain and @ to join both."
 }
 
 variable "incoming_domain" {
