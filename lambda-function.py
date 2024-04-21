@@ -1,3 +1,6 @@
+# The original file came with the Apache 2.0 License, which is included in this repository.
+# This file has been changed afterwards and is republished under the same license.
+#
 # Copyright 2010-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
 # This file is licensed under the Apache License, Version 2.0 (the "License").
